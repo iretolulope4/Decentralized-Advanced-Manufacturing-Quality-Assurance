@@ -9,3 +9,5 @@ N
 contracts/defect-tracking.clar,b/c/bc6ddb13726aded903f7194f95e5d7d9be94f1f5
 M
 tests/defect-tracking.test.ts,7/0/7019c6832aadf18cd55d2cba7a323c539a212bd0
+P
+ contracts/process-parameter.clar,4/1/41da0506e6537912e044f9d50a59554b08461a37
