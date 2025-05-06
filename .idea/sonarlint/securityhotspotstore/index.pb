@@ -11,3 +11,5 @@ M
 tests/defect-tracking.test.ts,7/0/7019c6832aadf18cd55d2cba7a323c539a212bd0
 P
  contracts/process-parameter.clar,4/1/41da0506e6537912e044f9d50a59554b08461a37
+O
+contracts/testing-protocol.clar,a/e/ae6f30b4aca35bea72819c3b9ad16efe73834ffe
